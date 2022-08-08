@@ -6,6 +6,23 @@ Utilizei um site de testes em automação e gostaria de realizar os cenários au
 
 Mas é somente para análise de escrita de código e organização.
 
+
+### Para rodar os testes automatizados:
+- Pré-requisitos
+  - Ter node 16.15.1 instalado (ou superior)
+  - Ter NPM (normalmente vem instalado junto ao node) 8.11.0 instalado (ou superior)
+  - No ambiente windows, é necessário colocar o node nas variávies de ambiente (na instalação, há uma flag de atalho para isso)
+
+- Fazer o clone do projeto
+- executar os comandos:
+  - npm install
+  - npm test:open (se quiser acompanhar via interface do cypress)
+  - npm test (caso queira acompanhar os testes via linha de comando, como é executado em ambiente contínuo)
+- Selecionar o teste de login e acompanhar na interface do cypress
+
+
+Caso o comando não rode, execute na mão os comandos descritos nas chaves dos scripts
+
 #
 
 #### 1-) Como é feito seu levantamento de testes
