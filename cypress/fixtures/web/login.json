@@ -1,0 +1,26 @@
+{
+    "correctCredencials": {
+        "email": "joaoteste2002@teste.com",
+        "password": "teste"
+    },
+
+    "incorrectCredencials": {
+        "noEmail": {
+            "password": "teste"
+        },
+
+        "noPassword": {
+            "email": "joaoteste2002@teste.com"
+        },
+
+        "justEmailCorrect": {
+            "email": "joaoteste2002@teste.com",
+            "password": "teste123456"
+        },
+
+        "justPasswordCorrect": {
+            "email": "joaotestetrest2002@teste.com",
+            "password": "teste"
+        }
+    }
+}
