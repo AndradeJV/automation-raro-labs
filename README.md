@@ -1,4 +1,4 @@
-# Mapeamento de cenários de testes - Raro Labs
+# Mapeamento de cenários de testes - Raro Labs :smiley:
 
 ### Oberservações gerais:
 
@@ -7,7 +7,7 @@ Utilizei um site de testes em automação e gostaria de realizar os cenários au
 Mas é somente para análise de escrita de código e organização.
 
 
-### Para rodar os testes automatizados:
+### Para rodar os testes automatizados :rocket::
 - Pré-requisitos
   - Ter node 16.15.1 instalado (ou superior)
   - Ter NPM (normalmente vem instalado junto ao node) 8.11.0 instalado (ou superior)
@@ -25,7 +25,7 @@ Caso o comando não rode, execute na mão os comandos descritos nas chaves dos s
 
 #
 
-#### 1-) Como é feito seu levantamento de testes
+#### 1-) Como é feito seu levantamento de testes :dart:
 
 Partindo do pressuposto que eu não conheço o sistema, antes de qualquer coisa, sempre busco fazer os testes exploratórios para conhecimento do produto. Como entradas, saídas e comportamentos. 
 
@@ -66,7 +66,7 @@ Busco entender o projeto por inteiro, para entender os impactos e relações do 
 
 
 
-#### 2-) Como são mapeados os cenários e como você se prepara para testar?
+#### 2-) Como são mapeados os cenários e como você se prepara para testar? :dart:
 
 Normalmente parto de uma solução criada e mapeada pelo P.O., caso isso não exista, dou prioridade para os cenáriios de testes regressivos em sua prioridade. Costumo usar uma planilha do excel para executar esses tipos de testes.
 
